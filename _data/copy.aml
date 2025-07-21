@@ -1,9 +1,11 @@
 [+body]
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque luctus magna sed auctor. Cras ullamcorper urna mattis lectus sagittis, quis vehicula dui vestibulum.
+There's copy in here! You can find it in <span class="snippet">copy.aml</span>, which is written in <a href="https://archieml.org/">Archie Markup Language</a>, a text format that makes it much easier to read and write prose.
 
-Aliquam sollicitudin libero vel diam cursus, ut egestas ex scelerisque. Nullam vestibulum metus interdum, dictum erat vel, luctus elit. Nullam aliquam ante elit, mollis aliquet nulla efficitur molestie. Praesent a tempus mi.
+We loop through the copy.aml file using <a href="https://mozilla.github.io/nunjucks/">Nunjucks</a> template tags in <span class="snippet">index.html</span>. Nunjucks, like AML, helps code become more readable. Nunjucks uses template tags to easily insert data/text/components from one file into another.
 
-Suspendisse non sapien iaculis, interdum erat ac, lacinia eros. Nam eu efficitur massa. Donec ipsum felis, hendrerit vitae molestie a, tempus non justo. Sed ligula justo, porttitor sit amet magna sagittis, ornare scelerisque nisl. Duis ut tortor odio. Sed scelerisque tristique purus, eu laoreet nunc mollis in.
+<a href="https://palewi.re/docs/first-visual-story/template.html">This page</a> explains how Nunjucks works in the LAT Baker template in more detail.
 
-Pellentesque nec iaculis tellus, vitae efficitur lectus. Donec vitae euismod diam. In tristique ligula vel diam tristique gravida. Proin porta est non justo mattis, at eleifend lorem tristique. Nullam euismod vel dui vitae vestibulum.
+Note that D3 and Topojson are imported via CDN links in the scripts section at the top of <span class="snippet">index.html</span>.
+
+You can change the base stylings of this page (font, etc) in the styles folder.
 []

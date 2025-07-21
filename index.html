@@ -6,6 +6,8 @@
 
 {% block scripts %}
 {% script 'app' %}
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="https://unpkg.com/topojson@3"></script>
 {% endblock scripts %}
 
 {% block content %}
@@ -26,6 +28,11 @@
     {% for p in copy.body %}
         <p class="prose">{{ p.value }}</p>
     {% endfor %}
+
+    <h3>New York City neighborhoods</h3>
+    <div id="neighborhood-map"></div>
+
+
     <table class="table">
         <caption>Wheat production</caption>
         <thead>
