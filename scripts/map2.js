@@ -18,7 +18,7 @@ const drawMapTwo = () => {
 
   let mapColorScale = d3.scaleOrdinal().range(['#F5F5DC']);
 
-  // Color scale for school types
+  // Color scale
   let schoolColorScale = d3
     .scaleOrdinal()
     .domain(['Public', 'Private'])
@@ -79,7 +79,7 @@ const drawMapTwo = () => {
       .attr('alignment-baseline', 'middle')
       .attr('font-size', 10);
 
-    // Function to parse amount strings (handles ranges like "$24,200–$31,800")
+    // Function to parse amount strings
     function parseAmount(amountStr) {
       let cleanStr = amountStr.replace(/\$|,/g, '');
       let firstAmount = cleanStr.split('–')[0].split('-')[0];
@@ -136,7 +136,6 @@ const drawMapTwo = () => {
           .style('top', event.pageY - 10 + 'px');
       })
       .on('mouseout', function (event, d) {
-        // Reset circle appearance
         d3.select(this).attr('opacity', 0.8).attr('stroke-width', 0.5);
 
         // Remove tooltip

@@ -15,15 +15,12 @@ const drawMultiline = () => {
     .append('g')
     .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
 
-  // Mouse hover handlers
   function handleMouseOver(event, d) {
-    // Highlight the hovered dot
     d3.select(this);
-    // Get dot position
     let dotX = xPositionScale(d['Academic Year']);
     let dotY = yPositionScale(d.median_pay);
 
-    // Add tooltip text near the dot (10px above and centered)
+    // Add tooltip
     svg
       .append('text')
       .html(`$${d3.format(',')(d.median_pay)}`)
@@ -36,10 +33,7 @@ const drawMultiline = () => {
   }
 
   function handleMouseOut(event, d) {
-    // Reset dot appearance
     d3.select(this).attr('r', 3.5).attr('stroke', 'none');
-
-    // Remove all tooltip elements
     svg.selectAll('.tooltip').remove();
   }
 
@@ -93,7 +87,7 @@ const drawMultiline = () => {
       .attr('fill', 'none')
       .attr('d', (group) => line(group[1]));
 
-    // Add dots for each data point with hover functionality
+    // Add dots for each data point
     svg
       .selectAll('.field-dot')
       .data(datapoints)
