@@ -37,6 +37,11 @@ p {
   }
 }
 
+h3 + .chart-subtitle {
+  margin-top: -0.5em; /* Negative margin pulls subtitle closer */
+  line-height: 1.2; /* Tighter line height */
+}
+
 .table {
   font-family: fonts.$font-family-table;
   border-collapse: collapse;
