@@ -2,7 +2,7 @@ const drawMapTwo = () => {
   let mapMargin = { top: 0, left: 0, right: 0, bottom: 0 };
 
   let mapHeight = 500;
-  let mapWidth = 800;
+  let mapWidth = 700;
 
   let mapChartHeight = mapHeight - mapMargin.top - mapMargin.bottom;
   let mapChartWidth = mapWidth - mapMargin.left - mapMargin.right;

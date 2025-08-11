@@ -2,7 +2,7 @@ console.log('Hello bakers');
 
 const drawMultiline = () => {
   let margin = { top: 20, right: 200, bottom: 80, left: 60 };
-  let width = 850;
+  let width = 800;
   let height = 500;
   let chartWidth = width - margin.left - margin.right;
   let chartHeight = height - margin.top - margin.bottom;
