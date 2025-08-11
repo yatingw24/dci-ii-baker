@@ -1,11 +1,38 @@
 [+body]
-There's copy in here! You can find it in <span class="snippet">copy.aml</span>, which is written in <a href="https://archieml.org/">Archie Markup Language</a>, a text format that makes it much easier to read and write prose.
 
-We loop through the copy.aml file using <a href="https://mozilla.github.io/nunjucks/">Nunjucks</a> template tags in <span class="snippet">index.html</span>. Nunjucks, like AML, helps code become more readable. Nunjucks uses template tags to easily insert data/text/components from one file into another.
+Several universities announced a suspension of doctoral admissions in response in February to the halt of federal funding to research institutions by roughly $4 million.
 
-<a href="https://palewi.re/docs/first-visual-story/template.html">This page</a> explains how Nunjucks works in the LAT Baker template in more detail.
+This is not new - the effect of underpayment first ripples outwards with students in non-science disciplines. Last fall, a student received an email from Boston University saying the university decided to halt doctoral applications in Humanities for the 2025-2026 admission cycle after the unionized strike to raise annual salary. The English Department at the University of Chicago now only opens the admission to those with a specialized interest in media aesthetics while other tracks of interest are shut down.
 
-Note that D3 and Topojson are imported via CDN links in the scripts section at the top of <span class="snippet">index.html</span>.
+Among all doctoral students, those in Humanities, Arts, and Social Sciences have long endured the lowest stipends, barely enough to cover basic living expenses.
 
-You can change the base stylings of this page (font, etc) in the styles folder.
+While the stipend gap grows even bigger, the baseline of a hard-core science major's stipend was unreachable for students in Humanities. From 2015 to 2019, STEM candidates out-earned Humanities candidates by about $5000.
+
+The pandemic imposed more difficulties, doubling the financial pressure for PhD students. Most had to deal with an inflated workload with everything turned online, and students in non-traditional science majors even observed a drop in the rate.
+
+
+[+second_body]
+
+Geographic location compounds these financial challenges. Professor Eric Weiskott of Boston College conducted a comprehensive analysis of stipends for PhD students in English across the top 135 universities in the U.S. News and World Report's 2022 rankings. 
+
+Among these, 80 offered a doctoral degree in English, but three declined to release their data. 
+
+The stipend difference between private and public universities is significant. In the 2021-2022 academic year, the median stipend for English PhD candidates at private universities barely reached $30,000, while public universities offered nearly $10,000 less to their doctoral students.
+
+The geographic disparities create particularly acute hardships for students in certain regions. An English PhD candidate in states like Kansas or Arizona faces a double burden: they are likely attending a public university with lower baseline funding while also competing for fewer academic opportunities overall. 
+
+Students in Massachusetts, Connecticut, or New York benefit from both higher private university stipends and a greater number of institutional options. 
+
+But this apparent advantage can be misleading when cost of living enters the equation. Geographic proximity to expensive metropolitan areas can put students under more financial pressure. 
+
+While located in central New Jersey, Rutgers University sits within commuting distance of New York City, which has the highest cost of living in the United States. According to Professor Weiskott's research, more than one quarter of current Rutgers English graduate students actually reside in Brooklyn, Manhattan, Queens, or adjacent Jersey City. These students receive a $31,000 stipend while living in the same expensive housing markets as their counterparts at Columbia University, who receive approximately $41,000.
+
+[+third_body]
+
+Numbers and statistics are more desirable than thousands of lines of text analysis when it comes to the evaluation of one’s contribution to academia. Inevitably, “a choice of discipline translates, in effect, into a choice of salary during the Ph.D.,” said Professor Weiskott.
+
+Yet, just because they did not do their research for the money does not mean their work isn’t worth investing in. History students unearth the past, looking for patterns that could prevent today from repeating the past mistakes; English scholars untangle how language fosters communication; and Anthropology candidates decode complex social phenomena into illuminating insights.
+
+They deserve more, and universities can’t afford to ignore it any longer.
+
 []

@@ -1,0 +1,392 @@
+[
+ {
+   "FIELD1": "Institution",
+   "FIELD2": "Amount (USD)",
+   "FIELD3": "Type"
+ },
+ {
+   "FIELD1": "University of California, Berkeley",
+   "FIELD2": "$34,000",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "Rutgers University, New Brunswick",
+   "FIELD2": "$30,937",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Virginia",
+   "FIELD2": "$30,000",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Michigan",
+   "FIELD2": "$29,196",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of California, Los Angeles",
+   "FIELD2": "$24,200–$31,800",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Wisconsin, Madison",
+   "FIELD2": "$27,000",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Washington, Seattle",
+   "FIELD2": "$26,874",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "Graduate Center, City University of New York",
+   "FIELD2": "$26,800",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Colorado, Boulder",
+   "FIELD2": "$26,330",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Connecticut",
+   "FIELD2": "$24,800–$29,013",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of California, Santa Barbara",
+   "FIELD2": "$22,000–$30,000",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "Penn State University, University Park",
+   "FIELD2": "$21,780–$30,000",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of California, Riverside",
+   "FIELD2": "$21,191–$25,691",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Illinois, Urbana",
+   "FIELD2": "$22,716–$24,068",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Tennessee, Knoxville",
+   "FIELD2": "$23,332",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of California, Davis",
+   "FIELD2": "$23,247",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Massachusetts, Amherst",
+   "FIELD2": "$23,051",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Maryland, College Park",
+   "FIELD2": "$22,000–$23,500",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "Stony Brook University, State University of New York",
+   "FIELD2": "$22,500",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Delaware, Newark",
+   "FIELD2": "$22,000",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "Miami University, OH",
+   "FIELD2": "$21,931",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "Ohio State University",
+   "FIELD2": "$21,500",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Texas, Austin",
+   "FIELD2": "$21,000",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "Texas A&M University, College Station",
+   "FIELD2": "$19,600–$22,100",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Pittsburgh",
+   "FIELD2": "$20,322–$20,938",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Illinois, Chicago",
+   "FIELD2": "$20,615",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Iowa",
+   "FIELD2": "$20,598",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "Michigan State University",
+   "FIELD2": "$20,241",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University at Buffalo, State University of New York",
+   "FIELD2": "$20,000",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Utah",
+   "FIELD2": "$20,000",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "Purdue University, West Lafayette",
+   "FIELD2": "$19,500",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "Indiana University, Bloomington",
+   "FIELD2": "$19,000",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Georgia",
+   "FIELD2": "$18,772",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Minnesota, Twin Cities",
+   "FIELD2": "$18,600",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Missouri",
+   "FIELD2": "$18,026",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Kansas",
+   "FIELD2": "$17,750",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Arizona",
+   "FIELD2": "$17,500–$17,650",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Kentucky",
+   "FIELD2": "$17,421",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Florida",
+   "FIELD2": "$17,000",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of Oregon",
+   "FIELD2": "$14,004–$19,380",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "Auburn University",
+   "FIELD2": "$16,000",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of North Carolina, Chapel Hill",
+   "FIELD2": "$16,000",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "University of South Carolina, Columbia",
+   "FIELD2": "$14,800",
+   "FIELD3": "Public"
+ },
+ {
+   "FIELD1": "Columbia University",
+   "FIELD2": "$41,520",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Princeton University",
+   "FIELD2": "$35,416",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Stanford University",
+   "FIELD2": "$35,310",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Brown University",
+   "FIELD2": "$34,856",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Northwestern University",
+   "FIELD2": "$34,176",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "University of Southern California",
+   "FIELD2": "$34,000",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Yale University",
+   "FIELD2": "$33,600",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Cornell University",
+   "FIELD2": "$33,484",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "University of Pennsylvania",
+   "FIELD2": "$32,255",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Southern Methodist University",
+   "FIELD2": "$32,160",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "University of Chicago",
+   "FIELD2": "$32,000",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Emory University",
+   "FIELD2": "$31,775",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Johns Hopkins University",
+   "FIELD2": "$31,500",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Duke University",
+   "FIELD2": "$31,160",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "New York University",
+   "FIELD2": "$30,238",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Vanderbilt University",
+   "FIELD2": "$30,000",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Boston University",
+   "FIELD2": "$29,521",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Rice University",
+   "FIELD2": "$28,413",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Washington University in St. Louis",
+   "FIELD2": "$28,152",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Loyola University, Chicago",
+   "FIELD2": "$28,000",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Carnegie Mellon University",
+   "FIELD2": "$27,500",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Fordham University",
+   "FIELD2": "$25,164–$28,177",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Tufts University",
+   "FIELD2": "$26,235",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Boston College",
+   "FIELD2": "$25,500",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Baylor University",
+   "FIELD2": "$25,000",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Brandeis University",
+   "FIELD2": "$25,000",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "University of Notre Dame",
+   "FIELD2": "$25,000",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "University of Miami",
+   "FIELD2": "$22,990",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Lehigh University",
+   "FIELD2": "$22,570",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Case Western Reserve University",
+   "FIELD2": "$22,000",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Texas Christian University",
+   "FIELD2": "$22,000",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Syracuse University",
+   "FIELD2": "$19,890",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "Saint Louis University",
+   "FIELD2": "$18,000",
+   "FIELD3": "Private"
+ },
+ {
+   "FIELD1": "University of Rochester",
+   "FIELD2": "$18,000",
+   "FIELD3": "Private"
+ }
+]

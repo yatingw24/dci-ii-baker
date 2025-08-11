@@ -1,0 +1,541 @@
+[
+  {
+    "Institution": "University of California, Berkeley",
+    "Amount": "$34,000",
+    "Type": "Public",
+    "Longitude": -122.2585,
+    "Latitude": 37.8719
+  },
+  {
+    "Institution": "Rutgers University, New Brunswick", 
+    "Amount": "$30,937",
+    "Type": "Public",
+    "Longitude": -74.4474,
+    "Latitude": 40.5008
+  },
+  {
+    "Institution": "University of Virginia",
+    "Amount": "$30,000", 
+    "Type": "Public",
+    "Longitude": -78.5080,
+    "Latitude": 38.0336
+  },
+  {
+    "Institution": "University of Michigan",
+    "Amount": "$29,196",
+    "Type": "Public", 
+    "Longitude": -83.7382,
+    "Latitude": 42.2776
+  },
+  {
+    "Institution": "University of California, Los Angeles",
+    "Amount": "$24,200–$31,800",
+    "Type": "Public",
+    "Longitude": -118.4452,
+    "Latitude": 34.0689
+  },
+  {
+    "Institution": "University of Wisconsin, Madison",
+    "Amount": "$27,000",
+    "Type": "Public",
+    "Longitude": -89.4012,
+    "Latitude": 43.0731
+  },
+  {
+    "Institution": "University of Washington, Seattle",
+    "Amount": "$26,874",
+    "Type": "Public",
+    "Longitude": -122.3035,
+    "Latitude": 47.6553
+  },
+  {
+    "Institution": "Graduate Center, City University of New York",
+    "Amount": "$26,800",
+    "Type": "Public",
+    "Longitude": -73.9857,
+    "Latitude": 40.7489
+  },
+  {
+    "Institution": "University of Colorado, Boulder",
+    "Amount": "$26,330",
+    "Type": "Public",
+    "Longitude": -105.2705,
+    "Latitude": 40.0150
+  },
+  {
+    "Institution": "University of Connecticut",
+    "Amount": "$24,800–$29,013",
+    "Type": "Public",
+    "Longitude": -72.2495,
+    "Latitude": 41.8077
+  },
+  {
+    "Institution": "University of California, Santa Barbara",
+    "Amount": "$22,000–$30,000",
+    "Type": "Public",
+    "Longitude": -119.8489,
+    "Latitude": 34.4140
+  },
+  {
+    "Institution": "Penn State University, University Park",
+    "Amount": "$21,780–$30,000",
+    "Type": "Public",
+    "Longitude": -77.8600,
+    "Latitude": 40.7982
+  },
+  {
+    "Institution": "University of California, Riverside",
+    "Amount": "$21,191–$25,691",
+    "Type": "Public",
+    "Longitude": -117.3281,
+    "Latitude": 33.9737
+  },
+  {
+    "Institution": "University of Illinois, Urbana",
+    "Amount": "$22,716–$24,068",
+    "Type": "Public",
+    "Longitude": -88.2272,
+    "Latitude": 40.1020
+  },
+  {
+    "Institution": "University of Tennessee, Knoxville",
+    "Amount": "$23,332",
+    "Type": "Public",
+    "Longitude": -83.9294,
+    "Latitude": 35.9544
+  },
+  {
+    "Institution": "University of California, Davis",
+    "Amount": "$23,247",
+    "Type": "Public",
+    "Longitude": -121.7405,
+    "Latitude": 38.5382
+  },
+  {
+    "Institution": "University of Massachusetts, Amherst",
+    "Amount": "$23,051",
+    "Type": "Public",
+    "Longitude": -72.5301,
+    "Latitude": 42.3868
+  },
+  {
+    "Institution": "University of Maryland, College Park",
+    "Amount": "$22,000–$23,500",
+    "Type": "Public",
+    "Longitude": -76.9425,
+    "Latitude": 38.9869
+  },
+  {
+    "Institution": "Stony Brook University, State University of New York",
+    "Amount": "$22,500",
+    "Type": "Public",
+    "Longitude": -73.1364,
+    "Latitude": 40.9143
+  },
+  {
+    "Institution": "University of Delaware, Newark",
+    "Amount": "$22,000",
+    "Type": "Public",
+    "Longitude": -75.7497,
+    "Latitude": 39.6779
+  },
+  {
+    "Institution": "Miami University, OH",
+    "Amount": "$21,931",
+    "Type": "Public",
+    "Longitude": -84.7844,
+    "Latitude": 39.5061
+  },
+  {
+    "Institution": "Ohio State University",
+    "Amount": "$21,500",
+    "Type": "Public",
+    "Longitude": -83.0302,
+    "Latitude": 39.9612
+  },
+  {
+    "Institution": "University of Texas, Austin",
+    "Amount": "$21,000",
+    "Type": "Public",
+    "Longitude": -97.7431,
+    "Latitude": 30.2849
+  },
+  {
+    "Institution": "Texas A&M University, College Station",
+    "Amount": "$19,600–$22,100",
+    "Type": "Public",
+    "Longitude": -96.3344,
+    "Latitude": 30.6280
+  },
+  {
+    "Institution": "University of Pittsburgh",
+    "Amount": "$20,322–$20,938",
+    "Type": "Public",
+    "Longitude": -79.9959,
+    "Latitude": 40.4406
+  },
+  {
+    "Institution": "University of Illinois, Chicago",
+    "Amount": "$20,615",
+    "Type": "Public",
+    "Longitude": -87.6498,
+    "Latitude": 41.8708
+  },
+  {
+    "Institution": "University of Iowa",
+    "Amount": "$20,598",
+    "Type": "Public",
+    "Longitude": -91.5302,
+    "Latitude": 41.6611
+  },
+  {
+    "Institution": "Michigan State University",
+    "Amount": "$20,241",
+    "Type": "Public",
+    "Longitude": -84.4822,
+    "Latitude": 42.7018
+  },
+  {
+    "Institution": "University at Buffalo, State University of New York",
+    "Amount": "$20,000",
+    "Type": "Public",
+    "Longitude": -78.7874,
+    "Latitude": 43.0003
+  },
+  {
+    "Institution": "University of Utah",
+    "Amount": "$20,000",
+    "Type": "Public",
+    "Longitude": -111.8910,
+    "Latitude": 40.7608
+  },
+  {
+    "Institution": "Purdue University, West Lafayette",
+    "Amount": "$19,500",
+    "Type": "Public",
+    "Longitude": -86.9250,
+    "Latitude": 40.4237
+  },
+  {
+    "Institution": "Indiana University, Bloomington",
+    "Amount": "$19,000",
+    "Type": "Public",
+    "Longitude": -86.5264,
+    "Latitude": 39.1754
+  },
+  {
+    "Institution": "University of Georgia",
+    "Amount": "$18,772",
+    "Type": "Public",
+    "Longitude": -83.3576,
+    "Latitude": 33.9519
+  },
+  {
+    "Institution": "University of Minnesota, Twin Cities",
+    "Amount": "$18,600",
+    "Type": "Public",
+    "Longitude": -93.2277,
+    "Latitude": 44.9741
+  },
+  {
+    "Institution": "University of Missouri",
+    "Amount": "$18,026",
+    "Type": "Public",
+    "Longitude": -92.3341,
+    "Latitude": 38.9517
+  },
+  {
+    "Institution": "University of Kansas",
+    "Amount": "$17,750",
+    "Type": "Public",
+    "Longitude": -95.2558,
+    "Latitude": 38.9543
+  },
+  {
+    "Institution": "University of Arizona",
+    "Amount": "$17,500–$17,650",
+    "Type": "Public",
+    "Longitude": -110.9495,
+    "Latitude": 32.2319
+  },
+  {
+    "Institution": "University of Kentucky",
+    "Amount": "$17,421",
+    "Type": "Public",
+    "Longitude": -84.5037,
+    "Latitude": 38.0306
+  },
+  {
+    "Institution": "University of Florida",
+    "Amount": "$17,000",
+    "Type": "Public",
+    "Longitude": -82.3549,
+    "Latitude": 29.6436
+  },
+  {
+    "Institution": "University of Oregon",
+    "Amount": "$14,004–$19,380",
+    "Type": "Public",
+    "Longitude": -123.0751,
+    "Latitude": 44.0459
+  },
+  {
+    "Institution": "Auburn University",
+    "Amount": "$16,000",
+    "Type": "Public",
+    "Longitude": -85.4872,
+    "Latitude": 32.6099
+  },
+  {
+    "Institution": "University of North Carolina, Chapel Hill",
+    "Amount": "$16,000",
+    "Type": "Public",
+    "Longitude": -79.0558,
+    "Latitude": 35.9049
+  },
+  {
+    "Institution": "University of South Carolina, Columbia",
+    "Amount": "$14,800",
+    "Type": "Public",
+    "Longitude": -81.0348,
+    "Latitude": 34.0207
+  },
+  {
+    "Institution": "Columbia University",
+    "Amount": "$41,520",
+    "Type": "Private",
+    "Longitude": -73.9626,
+    "Latitude": 40.8075
+  },
+  {
+    "Institution": "Princeton University",
+    "Amount": "$35,416",
+    "Type": "Private",
+    "Longitude": -74.6672,
+    "Latitude": 40.3573
+  },
+  {
+    "Institution": "Stanford University",
+    "Amount": "$35,310",
+    "Type": "Private",
+    "Longitude": -122.1697,
+    "Latitude": 37.4419
+  },
+  {
+    "Institution": "Brown University",
+    "Amount": "$34,856",
+    "Type": "Private",
+    "Longitude": -71.4025,
+    "Latitude": 41.8268
+  },
+  {
+    "Institution": "Northwestern University",
+    "Amount": "$34,176",
+    "Type": "Private",
+    "Longitude": -87.6753,
+    "Latitude": 42.0564
+  },
+  {
+    "Institution": "University of Southern California",
+    "Amount": "$34,000",
+    "Type": "Private",
+    "Longitude": -118.2851,
+    "Latitude": 34.0224
+  },
+  {
+    "Institution": "Yale University",
+    "Amount": "$33,600",
+    "Type": "Private",
+    "Longitude": -72.9223,
+    "Latitude": 41.3163
+  },
+  {
+    "Institution": "Cornell University",
+    "Amount": "$33,484",
+    "Type": "Private",
+    "Longitude": -76.4735,
+    "Latitude": 42.4534
+  },
+  {
+    "Institution": "University of Pennsylvania",
+    "Amount": "$32,255",
+    "Type": "Private",
+    "Longitude": -75.1932,
+    "Latitude": 39.9522
+  },
+  {
+    "Institution": "Southern Methodist University",
+    "Amount": "$32,160",
+    "Type": "Private",
+    "Longitude": -96.7836,
+    "Latitude": 32.8412
+  },
+  {
+    "Institution": "University of Chicago",
+    "Amount": "$32,000",
+    "Type": "Private",
+    "Longitude": -87.5987,
+    "Latitude": 41.7886
+  },
+  {
+    "Institution": "Emory University",
+    "Amount": "$31,775",
+    "Type": "Private",
+    "Longitude": -84.3240,
+    "Latitude": 33.7490
+  },
+  {
+    "Institution": "Johns Hopkins University",
+    "Amount": "$31,500",
+    "Type": "Private",
+    "Longitude": -76.6205,
+    "Latitude": 39.3299
+  },
+  {
+    "Institution": "Duke University",
+    "Amount": "$31,160",
+    "Type": "Private",
+    "Longitude": -78.9382,
+    "Latitude": 35.9940
+  },
+  {
+    "Institution": "New York University",
+    "Amount": "$30,238",
+    "Type": "Private",
+    "Longitude": -73.9969,
+    "Latitude": 40.7295
+  },
+  {
+    "Institution": "Vanderbilt University",
+    "Amount": "$30,000",
+    "Type": "Private",
+    "Longitude": -86.8027,
+    "Latitude": 36.1447
+  },
+  {
+    "Institution": "Boston University",
+    "Amount": "$29,521",
+    "Type": "Private",
+    "Longitude": -71.0995,
+    "Latitude": 42.3505
+  },
+  {
+    "Institution": "Rice University",
+    "Amount": "$28,413",
+    "Type": "Private",
+    "Longitude": -95.4017,
+    "Latitude": 29.7174
+  },
+  {
+    "Institution": "Washington University in St. Louis",
+    "Amount": "$28,152",
+    "Type": "Private",
+    "Longitude": -90.3052,
+    "Latitude": 38.6488
+  },
+  {
+    "Institution": "Loyola University, Chicago",
+    "Amount": "$28,000",
+    "Type": "Private",
+    "Longitude": -87.6561,
+    "Latitude": 41.9989
+  },
+  {
+    "Institution": "Carnegie Mellon University",
+    "Amount": "$27,500",
+    "Type": "Private",
+    "Longitude": -79.9441,
+    "Latitude": 40.4432
+  },
+  {
+    "Institution": "Fordham University",
+    "Amount": "$25,164–$28,177",
+    "Type": "Private",
+    "Longitude": -73.8851,
+    "Latitude": 40.8618
+  },
+  {
+    "Institution": "Tufts University",
+    "Amount": "$26,235",
+    "Type": "Private",
+    "Longitude": -71.1097,
+    "Latitude": 42.4085
+  },
+  {
+    "Institution": "Boston College",
+    "Amount": "$25,500",
+    "Type": "Private",
+    "Longitude": -71.1687,
+    "Latitude": 42.3354
+  },
+  {
+    "Institution": "Baylor University",
+    "Amount": "$25,000",
+    "Type": "Private",
+    "Longitude": -97.1161,
+    "Latitude": 31.5804
+  },
+  {
+    "Institution": "Brandeis University",
+    "Amount": "$25,000",
+    "Type": "Private",
+    "Longitude": -71.2540,
+    "Latitude": 42.3662
+  },
+  {
+    "Institution": "University of Notre Dame",
+    "Amount": "$25,000",
+    "Type": "Private",
+    "Longitude": -86.2389,
+    "Latitude": 41.7001
+  },
+  {
+    "Institution": "University of Miami",
+    "Amount": "$22,990",
+    "Type": "Private",
+    "Longitude": -80.2707,
+    "Latitude": 25.7207
+  },
+  {
+    "Institution": "Lehigh University",
+    "Amount": "$22,570",
+    "Type": "Private",
+    "Longitude": -75.3774,
+    "Latitude": 40.6023
+  },
+  {
+    "Institution": "Case Western Reserve University",
+    "Amount": "$22,000",
+    "Type": "Private",
+    "Longitude": -81.6081,
+    "Latitude": 41.5045
+  },
+  {
+    "Institution": "Texas Christian University",
+    "Amount": "$22,000",
+    "Type": "Private",
+    "Longitude": -97.3707,
+    "Latitude": 32.7091
+  },
+  {
+    "Institution": "Syracuse University",
+    "Amount": "$19,890",
+    "Type": "Private",
+    "Longitude": -76.1357,
+    "Latitude": 43.0391
+  },
+  {
+    "Institution": "Saint Louis University",
+    "Amount": "$18,000",
+    "Type": "Private",
+    "Longitude": -90.2379,
+    "Latitude": 38.6370
+  },
+  {
+    "Institution": "University of Rochester",
+    "Amount": "$18,000",
+    "Type": "Private",
+    "Longitude": -77.6275,
+    "Latitude": 43.1292
+  }
+]

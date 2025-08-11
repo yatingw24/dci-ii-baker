@@ -1,22 +1,20 @@
 slug: baker-example-page-template
 
-site_name: Baker Examples
+site_name: PhD stipends
 locale: en_US
 
-headline: This is not a headline. Lorem ipsum dolor sit amet consectetur adipisicing
+headline: The Rising Cost of Knowledge: Academia is Failing Non-STEM PhD Students
 
 [byline]
-name: This is not a name
-url: https://www.latimes.com/people/nobody
+name: Yating Wang 
+url: https://yatingw24.github.io/
 
-name: This is not a name
-url: https://www.latimes.com/people/nobody
 []
 
-pub_date: 2099-12-31 23:58:00
+pub_date: 2025-08-11 16:58:00
 update_date:
 
-seo_headline: This is not a search-engine optimized headline
+seo_headline: Passion alone can’t pay rent — humanities and arts scholars face growing hardship as universities slash funding.
 seo_description: This is not a search-engine optimized description
 
 social_headline: This is not a social headline

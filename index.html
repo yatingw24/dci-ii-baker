@@ -8,13 +8,15 @@
 {% script 'app' %}
 <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
 <script src="https://unpkg.com/topojson@3"></script>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="./scripts/map2.js"></script>
 {% endblock scripts %}
 
 {% block content %}
 <article>
   <header class="container">
     <h1 class="headline">{{ meta.headline }}</h1>
-    <img src="{% static 'assets/images/baker.jpg' %}" alt="Baker logo" width=250 />
+    <!-- <img src="{% static 'assets/images/baker.jpg' %}" alt="Baker logo" width=250 /> -->
     <div class="attribution">
         {% set comma = joiner() %}
         <p class="byline">
@@ -24,32 +26,37 @@
         </p>
     </div>
   </header>
+
   <div class="container">
     {% for p in copy.body %}
         <p class="prose">{{ p.value }}</p>
     {% endfor %}
 
-    <h3>New York City neighborhoods</h3>
-    <div id="neighborhood-map"></div>
+    <h3>One's Field of Study Could Determine the Size of their Income</h3>
+    <p class="chart-subtitle">PhD stipends by fields of study over time</p>
+    <div id="phd_stipends"></div>
 
-
-    <table class="table">
-        <caption>Wheat production</caption>
-        <thead>
-            <tr>
-                <th>Year</th>
-                <th>Yield</th>
-            </tr>
-        </thead>
-        <tbody>
-        {% for obj in example %}
-            <tr>
-                <td>{{ obj.year }}</td>
-                <td>{{ obj.wheat }}</td>
-            </tr>
-        {% endfor %}
-        </tbody>
-    </table>
   </div>
+
+  <div class="container">
+    {% for p in copy.second_body %}
+        <p class="prose">{{ p.value }}</p>
+    {% endfor %}
+  </div>
+
+  <div class="container">
+    <h3>Private Universities Can Afford More to English PhD Students</h3>
+    <p class="chart-subtitle">the bigger the circle size, the larger the stipend is.</p>
+    <div id="map-2"></div>
+
+  </div>
+
+  <div class="container">
+    {% for p in copy.third_body %}
+        <p class="prose">{{ p.value }}</p>
+    {% endfor %}
+  </div>
+
+
 </article>
 {% endblock content %}

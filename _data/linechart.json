@@ -1,0 +1,202 @@
+[
+  {
+    "Academic Year": "2015-2016",
+    "Field": "Business",
+    "median_pay": 25000
+  },
+  {
+    "Academic Year": "2015-2016",
+    "Field": "Humanities",
+    "median_pay": 21600
+  },
+  {
+    "Academic Year": "2015-2016",
+    "Field": "STEM",
+    "median_pay": 26218
+  },
+  {
+    "Academic Year": "2015-2016",
+    "Field": "Social Science",
+    "median_pay": 21395.5
+  },
+  {
+    "Academic Year": "2016-2017",
+    "Field": "Business",
+    "median_pay": 26000
+  },
+  {
+    "Academic Year": "2016-2017",
+    "Field": "Humanities",
+    "median_pay": 22000
+  },
+  {
+    "Academic Year": "2016-2017",
+    "Field": "STEM",
+    "median_pay": 27000
+  },
+  {
+    "Academic Year": "2016-2017",
+    "Field": "Social Science",
+    "median_pay": 23213
+  },
+  {
+    "Academic Year": "2017-2018",
+    "Field": "Business",
+    "median_pay": 29010
+  },
+  {
+    "Academic Year": "2017-2018",
+    "Field": "Humanities",
+    "median_pay": 23586
+  },
+  {
+    "Academic Year": "2017-2018",
+    "Field": "STEM",
+    "median_pay": 26798.5
+  },
+  {
+    "Academic Year": "2017-2018",
+    "Field": "Social Science",
+    "median_pay": 24200
+  },
+  {
+    "Academic Year": "2018-2019",
+    "Field": "Business",
+    "median_pay": 29250
+  },
+  {
+    "Academic Year": "2018-2019",
+    "Field": "Humanities",
+    "median_pay": 22872.5
+  },
+  {
+    "Academic Year": "2018-2019",
+    "Field": "STEM",
+    "median_pay": 28000
+  },
+  {
+    "Academic Year": "2018-2019",
+    "Field": "Social Science",
+    "median_pay": 24000
+  },
+  {
+    "Academic Year": "2019-2020",
+    "Field": "Business",
+    "median_pay": 30000
+  },
+  {
+    "Academic Year": "2019-2020",
+    "Field": "Humanities",
+    "median_pay": 26170
+  },
+  {
+    "Academic Year": "2019-2020",
+    "Field": "STEM",
+    "median_pay": 29567
+  },
+  {
+    "Academic Year": "2019-2020",
+    "Field": "Social Science",
+    "median_pay": 25884.5
+  },
+  {
+    "Academic Year": "2020-2021",
+    "Field": "Business",
+    "median_pay": 30000
+  },
+  {
+    "Academic Year": "2020-2021",
+    "Field": "Humanities",
+    "median_pay": 25200
+  },
+  {
+    "Academic Year": "2020-2021",
+    "Field": "STEM",
+    "median_pay": 29439.5
+  },
+  {
+    "Academic Year": "2020-2021",
+    "Field": "Social Science",
+    "median_pay": 25500
+  },
+  {
+    "Academic Year": "2021-2022",
+    "Field": "Business",
+    "median_pay": 31000
+  },
+  {
+    "Academic Year": "2021-2022",
+    "Field": "Humanities",
+    "median_pay": 24275
+  },
+  {
+    "Academic Year": "2021-2022",
+    "Field": "STEM",
+    "median_pay": 30500
+  },
+  {
+    "Academic Year": "2021-2022",
+    "Field": "Social Science",
+    "median_pay": 24939
+  },
+  {
+    "Academic Year": "2022-2023",
+    "Field": "Business",
+    "median_pay": 33000
+  },
+  {
+    "Academic Year": "2022-2023",
+    "Field": "Humanities",
+    "median_pay": 26700
+  },
+  {
+    "Academic Year": "2022-2023",
+    "Field": "STEM",
+    "median_pay": 30307.5
+  },
+  {
+    "Academic Year": "2022-2023",
+    "Field": "Social Science",
+    "median_pay": 26000
+  },
+  {
+    "Academic Year": "2023-2024",
+    "Field": "Business",
+    "median_pay": 38000
+  },
+  {
+    "Academic Year": "2023-2024",
+    "Field": "Humanities",
+    "median_pay": 30000
+  },
+  {
+    "Academic Year": "2023-2024",
+    "Field": "STEM",
+    "median_pay": 33000
+  },
+  {
+    "Academic Year": "2023-2024",
+    "Field": "Social Science",
+    "median_pay": 29905
+  },
+  {
+    "Academic Year": "2024-2025",
+    "Field": "Business",
+    "median_pay": 40500
+  },
+  {
+    "Academic Year": "2024-2025",
+    "Field": "Humanities",
+    "median_pay": 31000
+  },
+  {
+    "Academic Year": "2024-2025",
+    "Field": "STEM",
+    "median_pay": 34000
+  },
+  {
+    "Academic Year": "2024-2025",
+    "Field": "Social Science",
+    "median_pay": 30130
+  }
+]
