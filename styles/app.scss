@@ -47,22 +47,6 @@ p {
     font-weight: bold;
     font-size: 18px;
   }
-  td,
-  th {
-    border: 1px solid #ddd;
-    padding: 8px;
-  }
-  tr:nth-child(even) {
-    background-color: colors.$gray;
-  }
-  tr:hover {
-    background-color: #ddd;
-  }
-  th {
-    text-align: left;
-    background-color: colors.$black;
-    color: white;
-  }
 }
 
 .snippet {
