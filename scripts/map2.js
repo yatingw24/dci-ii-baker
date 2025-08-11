@@ -109,7 +109,7 @@ const drawMapTwo = () => {
       .on('mouseover', function (event, d) {
         d3.select(this).attr('opacity', 1).attr('stroke-width', 2);
 
-        // Create tooltip
+        //tooltip
         let tooltip = d3
           .select('body')
           .append('div')
